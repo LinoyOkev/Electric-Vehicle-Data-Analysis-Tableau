@@ -27,30 +27,31 @@ This Tableau project provides an in-depth analysis of the electric vehicle marke
 - Identify and quantify the total number of Plug-in Hybrid Electric Vehicles (PHEVs) in the dataset.
 - Calculate the percentage of PHEVs relative to the total electric vehicle market to analyze the adoption of plug-in hybrid models.
 
+
 ### Charts Requirements
 
-1. Total Vehicles by Model Year (2010 Onwards)
+1. Total Vehicles by Model Year
 - Visualization: Line/Area Chart
-- Description: Tracks the growth of electric vehicles from 2010 onwards, showing adoption trends over time.
+- Tracks the growth of electric vehicles from 2011 onwards, showing adoption trends over time.
 
 2. Total Vehicles by State
 - Visualization: Map Chart
-- Description: Displays the geographic distribution of EVs across states, highlighting high-adoption regions.
+- Displays the geographic distribution of EVs across states, highlighting high-adoption regions.
 
 3. Top 10 Vehicles by Manufacturer
 - Visualization: Bar Chart
-- Description: Ranks the top 10 electric vehicle manufacturers based on total vehicles, showing market dominance.
+- Ranks the top 10 electric vehicle manufacturers based on total vehicles, showing market dominance.
 
 4. Vehicles by CAFV Eligibility
 - Visualization: Pie/Donut Chart
-- Description: Shows the proportion of EVs eligible for Clean Alternative Fuel Vehicle (CAFV) incentives, analyzing the impact of incentives on adoption.
+- Shows the proportion of EVs eligible for Clean Alternative Fuel Vehicle (CAFV) incentives, analyzing the impact of incentives on adoption.
 
 5. Top 10 Vehicles by Model
 - Visualization: Tree Map
-- Description: Highlights the top 10 electric vehicle models by total vehicles, providing insights into consumer preferences.
+- Highlights the top 10 electric vehicle models by total vehicles, providing insights into consumer preferences.
 
 ## Softwares Used
 
 - Tableau for data visualization
-- Microsoft Excel for dataset (Version 2412)
+- Excel for dataset management
 
