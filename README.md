@@ -53,5 +53,5 @@ This Tableau project provides an in-depth analysis of the electric vehicle marke
 
 - Tableau for data visualization
 - Microsoft Excel for dataset storage and management (Version 2412)
-- [Click here to download the dataset](https://public.tableau.com/views/ElectricVehicleDataAnalysis_17388488774930/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- [Click here to download the dataset](https://github.com/LinoyOkev/Electric-Vehicle-Data-Analysis-Tableau/blob/main/Electric_Vehicle_Population_Data.zip)
 
